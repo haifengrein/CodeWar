@@ -10,8 +10,8 @@ The table below shows my current progress on Codewars challenges by kyu level:
 
 | Kyu Level | Number of Completed Katas |
 |-----------|---------------------------|
-| 8 kyu     | 10                        |
-| 7 kyu     | 8                         |
+| 8 kyu     | 13                        |
+| 7 kyu     | 11                         |
 | ...       | ...                       |
 | 1 kyu     | 0                         |
 
